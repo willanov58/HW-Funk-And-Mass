@@ -2,7 +2,6 @@
 {
 int temp=0;
 int[] mas= new int[5]; 
-int count = 4;
  for (int i =0; i<5;i++)
  {
     temp=Number%10;
